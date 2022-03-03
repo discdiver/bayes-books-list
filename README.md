@@ -1,5 +1,5 @@
 # List of Bayesian Stats Books
-| Title | Author| Date | Notes | GitHub Repo |
+| Title | Author| Date Last Updated| Notes | GitHub Repo |
 | --- | --| --| --| --|
 [Bayes Rules!](https://www.bayesrulesbook.com/) | Alicia A. Johnson, Miles Q. Ott, Mine Dogucu | 2021-12-01 | Hard copy available | https://bayes-rules.github.io/
 | [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Merlise Clyde, Mine Çetinkaya-Rundel, Colin Rundel, David Banks, Christine Chai, Lizzy Huang | 2021-02-19 | *R* code, Companion for *Bayesian Statistics* specialization on Coursera | https://statswithr.github.io/book/github |
